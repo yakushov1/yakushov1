@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Привет, меня зовут Василий
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Кандидат+биологичеких+наук,+Data+Scientist)](https://git.io/typing-svg)
 
 <!--
 **yakushov1/yakushov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
