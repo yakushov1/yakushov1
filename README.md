@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут Василий
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=05F73F&width=435&lines=%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82+%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85+%D0%BD%D0%B0%D1%83%D0%BA%2C+Data+Scientist" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=300&color=7107F7&center=true&multiline=true&width=435&lines=%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82+%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85+%D0%BD%D0%B0%D1%83%D0%BA;Data+Scientist" alt="Typing SVG" /></a>
 
 <!--
 **yakushov1/yakushov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
