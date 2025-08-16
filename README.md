@@ -4,6 +4,10 @@
 
 Работаю на стыке биологической науки и анализа данных. Стремлюсь к оптимизации рутинных процессов. Обучаю коллег анализу данных.
 
+📫 Как со мной связаться:  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/пока_скрыт)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bio.yakuschov@gmail.com)
+
 ---
 
 ## 🔬 Научные проекты
@@ -28,7 +32,7 @@
 
 | Репозиторий | Описание | Технологии | Статус | Активность |
 |----------|-------------|------------|--------|------------|
-| [Открытый курс по "Введение в tidyverse"](https://github.com/yakushov1/intro_tidyverse_stepik_free) | Готовые решения задач из созданного мной <a href='https://stepik.org/course/201137/promo'>курса</a>, посвященного EDA с использованием экосистемы библиотек tidyverse | <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse"> <img src="https://img.shields.io/badge/dplyr-1A162D?logo=r&logoColor=white" alt="dplyr"> <img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio">| — | — |
+| [Открытый курс "Введение в tidyverse"](https://github.com/yakushov1/intro_tidyverse_stepik_free) | Готовые решения задач из созданного мной <a href='https://stepik.org/course/201137/promo'>курса</a>, посвященного EDA с использованием экосистемы библиотек tidyverse | <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse"> <img src="https://img.shields.io/badge/dplyr-1A162D?logo=r&logoColor=white" alt="dplyr"> <img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio">| — | — |
 | Курс "Анализ данных в Python" | | | | |
 
 ---
