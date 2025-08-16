@@ -8,33 +8,33 @@
 
 ## 🔬 Научные проекты
 
-| Описание | Репозиторий | Технологии | Активность |
-|----------|-------------|------------|------------|
-| Анализ временных рядов динамики экосистем | [time_series_of_dynamics](https://github.com/yakushov1/time_series_of_dynamics) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/time_series_of_dynamics?style=flat-square) |
-| Исходный код исследования изменения климата | [climate_change_source_code](https://github.com/yakushov1/climate_change_source_code) | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/climate_change_source_code?style=flat-square) |
-| Отчет по климатическим изменениям | [climate_change_report](https://github.com/yakushov1/climate_change_report) | ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/climate_change_report?style=flat-square) |
+| Описание | Репозиторий | Технологии | Статус | Активность |
+|----------|-------------|------------|--------|------------|
+| Анализ временных рядов динамики экосистем | [time_series_of_dynamics](https://github.com/yakushov1/time_series_of_dynamics) | <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse"> <img src="https://img.shields.io/badge/dplyr-1A162D?logo=r&logoColor=white" alt="dplyr"> <img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio"> | ✅ Завершен | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/time_series_of_dynamics?style=flat-square) |
+| Исходный код исследования изменения климата | [climate_change_source_code](https://github.com/yakushov1/climate_change_source_code) | <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse"> <img src="https://img.shields.io/badge/dplyr-1A162D?logo=r&logoColor=white" alt="dplyr"> <img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio"> | ✅ Завершен | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/climate_change_source_code?style=flat-square) |
+| Отчет по климатическим изменениям | [climate_change_report](https://github.com/yakushov1/climate_change_report) | <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse"> <img src="https://img.shields.io/badge/dplyr-1A162D?logo=r&logoColor=white" alt="dplyr"> <img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2"> <img src="https://img.shields.io/badge/Quarto-1976D2?logo=quarto&logoColor=white" alt="Quarto"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio"> | ✅ Завершен | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/climate_change_report?style=flat-square) |
 
 ---
 
 ## 💼 Проекты для бизнеса
 
-| Описание | Репозиторий | Технологии | Активность |
-|----------|-------------|------------|------------|
-| *Скоро появится...* | — | — | — |
+| Описание | Репозиторий | Технологии | Статус | Активность |
+|----------|-------------|------------|--------|------------|
+| *Скоро появится...* | — | — | — | — |
 
 ---
 
 ## 🎓 Образовательные инициативы
 
-| Описание | Репозиторий | Технологии | Активность |
-|----------|-------------|------------|------------|
-| *В разработке...* | — | — | — |
+| Описание | Репозиторий | Технологии | Статус | Активность |
+|----------|-------------|------------|--------|------------|
+| *В разработке...* | — | — | — | — |
 
 ---
 
-### 🔥 Технологический стек (часто используемый):
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+### 🔥 Технологический стек:
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" title="R"> 
+<img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse" title="tidyverse"> 
+<img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2" title="ggplot2"> 
+<img src="https://img.shields.io/badge/Quarto-1976D2?logo=quarto&logoColor=white" alt="Quarto" title="Quarto"> 
+<img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio" title="RStudio">
