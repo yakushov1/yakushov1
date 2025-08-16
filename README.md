@@ -1,18 +1,40 @@
-<h1 align="center">Привет, меня зовут Василий
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=300&color=7107F7&center=true&multiline=true&width=435&lines=%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82+%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85+%D0%BD%D0%B0%D1%83%D0%BA;Data+Scientist" alt="Typing SVG" /></a>
+# Привет, меня зовут Василий 👋
 
-<!--
-**yakushov1/yakushov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Кандидат биологических наук, Data Scientist**  
 
-Here are some ideas to get you started:
+Работаю на стыке науки и данных: анализирую сложные системы, визуализирую закономерности и создаю инструменты для исследований. Увлекаюсь климатологией, временными рядами и автоматизацией научных расчетов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Научные проекты
+
+| Описание | Репозиторий | Технологии | Активность |
+|----------|-------------|------------|------------|
+| Анализ временных рядов динамики экосистем | [time_series_of_dynamics](https://github.com/yakushov1/time_series_of_dynamics) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/time_series_of_dynamics?style=flat-square) |
+| Исходный код исследования изменения климата | [climate_change_source_code](https://github.com/yakushov1/climate_change_source_code) | ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/climate_change_source_code?style=flat-square) |
+| Отчет по климатическим изменениям | [climate_change_report](https://github.com/yakushov1/climate_change_report) | ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/climate_change_report?style=flat-square) |
+
+---
+
+## 💼 Проекты для бизнеса
+
+| Описание | Репозиторий | Технологии | Активность |
+|----------|-------------|------------|------------|
+| *Скоро появится...* | — | — | — |
+
+---
+
+## 🎓 Образовательные инициативы
+
+| Описание | Репозиторий | Технологии | Активность |
+|----------|-------------|------------|------------|
+| *В разработке...* | — | — | — |
+
+---
+
+### 🔥 Технологический стек (часто используемый):
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
