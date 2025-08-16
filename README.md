@@ -26,9 +26,11 @@
 
 ## 🎓 Образовательные инициативы
 
-| Описание | Репозиторий | Технологии | Статус | Активность |
+| Репозиторий | Описание | Технологии | Статус | Активность |
 |----------|-------------|------------|--------|------------|
-| *В разработке...* | — | — | — | — |
+| Открытый курс по "Введение в tidyverse" | Готовые решения задач в курсе, посвященному EDA с использованием экосистемы библиотек tidyverse | <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse"> <img src="https://img.shields.io/badge/dplyr-1A162D?logo=r&logoColor=white" alt="dplyr"> <img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio">| — | — |
+
+| Курс "Анализ данных в Python" | | | | |
 
 ---
 
