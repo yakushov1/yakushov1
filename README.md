@@ -33,11 +33,7 @@
 ---
 
 ### 🔥 Технологический стек:
-<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" title="R"> 
-<img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse" title="tidyverse"> 
-<img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2" title="ggplot2"> 
-<img src="https://img.shields.io/badge/Quarto-1976D2?logo=quarto&logoColor=white" alt="Quarto" title="Quarto"> 
-<img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio" title="RStudio">
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" title="R"><img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse" title="tidyverse"><img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2" title="ggplot2"><img src="https://img.shields.io/badge/Quarto-1976D2?logo=quarto&logoColor=white" alt="Quarto" title="Quarto"><img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio" title="RStudio">
 
 ### Активность
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakushov1&theme=aura_dark)
