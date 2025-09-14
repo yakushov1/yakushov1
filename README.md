@@ -13,8 +13,9 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" title="Pandas"> <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white" alt="Seaborn" title="Seaborn"> <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" title="VS Code">
 
-
 <img src="https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white" alt="SQL" title="SQL">
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" title="Git">
 
 
 ---
