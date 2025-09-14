@@ -8,6 +8,15 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/пока_скрыт)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bio.yakuschov@gmail.com)
 
+### 🔥 Основной стек:
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" title="R"> <img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse" title="tidyverse"> <img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2" title="ggplot2"> <img src="https://img.shields.io/badge/Quarto-1976D2?logo=quarto&logoColor=white" alt="Quarto" title="Quarto"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio" title="RStudio">
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" title="Pandas"> <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=seaborn&logoColor=white" alt="Seaborn" title="Seaborn"> <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" title="VS Code">
+
+
+<img src="https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white" alt="SQL" title="SQL">
+
+
 ---
 
 ## 🔬 Научные проекты
@@ -25,8 +34,8 @@
 
 | Репозиторий | Описание | Технологии | Статус | Активность |
 |----------|-------------|------------|--------|------------|
-| [База данных для LMS](https://github.com/yakushov1/database_for_lms) | DDL-команды для создания БД (MySQL), используемой в онлайн-LMS,ER-диаграмма, а также примеры аналитических SQL-запросов | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" title="MySQL"> <img src="https://img.shields.io/badge/ER_Diagrams-FF6B6B?logo=diagramsdotnet&logoColor=white" alt="ER Diagrams" title="ER Diagrams"> <img src="https://img.shields.io/badge/Mermaid-FF9900?logo=mermaid&logoColor=white" alt="Mermaid" title="Mermaid.js">| ⏳ Обновляются аналитические запросы | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/database_for_lms?style=flat-square) |
-| [Meteo](https://github.com/yakushov1/meteo_app)  | Консольное приложение для периодической загрузки данных с автоматической метеостанции по API и сохранение в csv | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python"> <img src="https://img.shields.io/badge/API-FF6F00?logo=api&logoColor=white" alt="API" title="API"> <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" title="VS Code"> |  ✅ Завершен  | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/meteo_app?style=flat-square) |
+| [База данных для LMS](https://github.com/yakushov1/database_for_lms) | DDL-команды для создания БД (MySQL), используемой в LMS для онлайн-школы, ER-диаграмма, а также примеры аналитических SQL-запросов и визуализация в Jupyter-ноутбуке| <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" title="MySQL"> <img src="https://img.shields.io/badge/ER_Diagrams-FF6B6B?logo=diagramsdotnet&logoColor=white" alt="ER Diagrams" title="ER Diagrams"> <img src="https://img.shields.io/badge/Mermaid-FF9900?logo=mermaid&logoColor=white" alt="Mermaid" title="Mermaid.js"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" title="Pandas"> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" title="SQLAlchemy">| ⏳ Обновляются аналитические запросы | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/database_for_lms?style=flat-square) |
+| [Meteo](https://github.com/yakushov1/meteo_app)  | Консольное приложение для периодической загрузки данных с автоматической метеостанции по API и сохранения в csv | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python"> <img src="https://img.shields.io/badge/API-FF6F00?logo=api&logoColor=white" alt="API" title="API"> <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" title="VS Code"> |  ✅ Завершен  | ![Last Commit](https://img.shields.io/github/last-commit/yakushov1/meteo_app?style=flat-square) |
 
 
 ---
@@ -40,8 +49,8 @@
 
 ---
 
-### 🔥 Технологический стек:
-<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" title="R"> <img src="https://img.shields.io/badge/tidyverse-1A162D?logo=r&logoColor=white" alt="tidyverse" title="tidyverse"> <img src="https://img.shields.io/badge/ggplot2-5A4FCF?logo=r&logoColor=white" alt="ggplot2" title="ggplot2"> <img src="https://img.shields.io/badge/Quarto-1976D2?logo=quarto&logoColor=white" alt="Quarto" title="Quarto"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio" title="RStudio">
+
+
 
 ### Активность
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakushov1&theme=aura_dark)
